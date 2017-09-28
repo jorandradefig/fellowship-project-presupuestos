@@ -1,0 +1,37 @@
+[   {
+        "Fecha":"24 de septiembre de 2017",
+        "Ambito": "Estatal", 
+        "Municipio":"Tuxtla Gutierrez", 
+        "Estado": "Chiapas", 
+        "Funcionario":"Manuel Velasco", 
+        "Cargo":"Gobernador", 
+        "Partido Politico":"Verde Ecologista",
+        "Institución":"---", 
+        "Fuente":"20 minutos", 
+        "Titulo":"Gobernador de Chiapas garantiza ayuda para damnificados del sismo"
+    },  
+    {
+        "Fecha":"22 de septiembre de 2017", 
+        "Ambito": "Federal",
+        "Municipio":"Ciudad de México", 
+        "Estado": "ciudad de México", 
+        "Funcionario":"Emilio Gamboa", 
+        "Cargo":"Senador", 
+        "Partido Politico":"PRI",
+        "Institución":"Cámara de diputados", 
+        "Fuente":"24 horas", 
+        "Titulo":"PRI renuncia a 100% de financiamiento público, pide eliminar a pluris"
+    },
+    {
+        "Fecha":"27 de septiembre de 2017",
+        "Ambito": "Federal", 
+        "Municipio":"Ciudad de México", 
+        "Estado": "ciudad de México", 
+        "Funcionario":"Ricardo Anaya", 
+        "Cargo":"Presidente de partido politico", 
+        "Partido Politico":"PAN",
+        "Institución":"---", 
+        "Fuente":"La Jornada", 
+        "Titulo":"PRI miente, propuesta sobre financiamiento es para 2018: PAN "
+    }
+]
