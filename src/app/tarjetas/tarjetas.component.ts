@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+//import * as d3 from "d3";
 
 @Component({
   selector: 'app-tarjetas',
@@ -7,11 +8,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TarjetasComponent implements OnInit {
 
-  datos: string;
-  tarjeta: any;
+  titulo: any;
+  texto: any;
+  fecha: any;
 
   constructor() { }
   ngOnInit() {
+    this.getInfo();
+  }
+  getInfo() {
+   // d3.json('/Users/Paola/Documents/fellowship-project-presupuestos/src/app/tarjetas', (error, Info) => {
+     // this.texto = Info;
+    //});
   }
 
 }
